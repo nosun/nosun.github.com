@@ -1,7 +1,7 @@
 # Site settings
 title: 理想，终究会实现  
 email: nosun@nosun.cn  
-description: > nothing 
+description: nothing 
 baseurl: "/"
 url: "http://nogun.github.io"
 
@@ -13,10 +13,6 @@ filter: 'tag'
 # Social account
 weibo:    nosun2008@126.com  
 github:   nosun  
-
-# Comment
-# disqus_shortname: discussion_shortname
-
 
 # Build settings
 markdown: kramdown
